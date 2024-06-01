@@ -4,3 +4,10 @@ test: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/test/images
 
 nc: 10
 names: ['airplane', 'baseball diamond', 'basketball court', 'bridge', 'ground track field', 'harbor', 'ship', 'storage tank', 'tennis court', 'vehicle']
+
+roboflow:
+  workspace: wwwz
+  project: nwpu-vhr-10
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wwwz/nwpu-vhr-10/dataset/2
