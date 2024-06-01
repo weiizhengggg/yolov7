@@ -1,0 +1,6 @@
+train: C:/Users/Tey Wei Zheng/Desktop/YOLO/NWPU_VHR-10_YOLO/train/images
+val: C:/Users/Tey Wei Zheng/Desktop/YOLO/NWPU_VHR-10_YOLO/valid/images
+test: C:/Users/Tey Wei Zheng/Desktop/YOLO/NWPU_VHR-10_YOLO/test/images
+
+nc: 10
+names: ['airplane', 'baseball diamond', 'basketball court', 'bridge', 'ground track field', 'harbor', 'ship', 'storage tank', 'tennis court', 'vehicle']
