@@ -1,6 +1,6 @@
-train: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/train/images
-val: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/valid/images
-test: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/test/images
+train: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/images/train
+val: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/images/valid
+test: /kaggle/input/nwpu-vhr-10-yolo/NWPU_VHR-10_YOLO/images/test
 
 nc: 10
 names: ['airplane', 'baseball diamond', 'basketball court', 'bridge', 'ground track field', 'harbor', 'ship', 'storage tank', 'tennis court', 'vehicle']
