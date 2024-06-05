@@ -1,6 +1,6 @@
-train: /kaggle/input/dior-yolo/DIOR_YOLO/train/images
-val: /kaggle/input/dior-yolo/DIOR_YOLO/valid/images
-test: /kaggle/input/dior-yolo/DIOR_YOLO/test/images
+train: /kaggle/input/dior-yolo/DIOR_YOLO/images/train
+val: /kaggle/input/dior-yolo/DIOR_YOLO/images/valid
+test: /kaggle/input/dior-yolo/DIOR_YOLO/images/test
 
 nc: 20
 names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam',
